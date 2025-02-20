@@ -1,7 +1,3 @@
-------
-layout:default
-title: "lulu webiste"
-------
 
 # My magic profile
 
